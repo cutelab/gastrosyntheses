@@ -1,23 +1,23 @@
-#Jewish Rye Bread
+# Jewish Rye Bread
 from https://www.restlesschipotle.com/jewish-rye-bread-secret-getting-right/
 
 Servings: 3 loaves, 10 slices each
 
 
-##Ingredients
-2 tablespoons active dry yeast
-2 cups water 110F
-1/2 cup dill pickle brine (from a jar of your favorite dill pickles)
-1/2 cup your favorite mild flavored oil (I use peanut oil, sometimes olive oil)
-4 to 5 cups bread flour
-2 cups dark rye flour, preferably stone ground organic
-1/2 cup dried potato flakes
-1/4 cup dried onions, optional
-1 tablespoon salt
-1/4 cup caraway seed
-1/4 cup brown sugar, tightly packed
+## Ingredients
+- 2 tablespoons active dry yeast
+- 2 cups water 110F
+- 1/2 cup dill pickle brine (from a jar of your favorite dill pickles)
+- 1/2 cup your favorite mild flavored oil (I use peanut oil, sometimes olive oil)
+- 4 to 5 cups bread flour
+- 2 cups dark rye flour, preferably stone ground organic
+- 1/2 cup dried potato flakes
+- 1/4 cup dried onions, optional
+- 1 tablespoon salt
+- 1/4 cup caraway seed
+- 1/4 cup brown sugar, tightly packed
 
-##Instructions
+## Instructions
 1. Add the water and the sugar to the yeast in the large bowl of your mixer, or a large bowl if doing this by hand.
 2. Let stand 5 minutes. The mixture will be bubbly.
 3. Add the remaining ingredients, using only 2 cups of the bread flour and reserving the rest.
@@ -37,6 +37,6 @@ Servings: 3 loaves, 10 slices each
 17. Let cool before slicing.
 
 
-##Notes
+## Notes
 - onion flakes may be overwhelming
 - grind the 

@@ -4,10 +4,10 @@
 
 ### ingredients:
 
-355 mL (1.5 cups) almond flour
-120 mL (0.5 cups, 58g) ground pecans
-1 stick           butter
-80 mL (1/3 cups)  ethevia 0.2.0
+- 355 mL (1.5 cups) almond flour
+- 120 mL (0.5 cups, 58g) ground pecans
+- 1 stick           butter
+- 80 mL (1/3 cups)  ethevia 0.2.0
 
 ### directions:
 
@@ -25,11 +25,11 @@
 
 ### ingredients:
 
-3 packages (24 oz) cream cheese
-5 mL (1 teaspoon)  vanilla extract
-235 mL (1 cup)     ethevia
-80 mL (1/3 cup)    sour cream
-4 eggs
+- 3 packages (24 oz) cream cheese
+- 5 mL (1 teaspoon)  vanilla extract
+- 235 mL (1 cup)     ethevia
+- 80 mL (1/3 cup)    sour cream
+- 4 eggs
 
 ### directions:
 

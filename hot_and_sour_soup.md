@@ -2,20 +2,20 @@
 
 ## ingredients:
 
-200g shitake mushrooms
-50g fresh wood ear mushrooms
-3cm piece of ginger
-small can bamboo shoots (~142g)
-60mL (1/4 cup) soy sauce
-60mL (1/4 cup) rice vinegar
-5mL (1 teaspoon) salt
-5mL (1 teaspoon) white pepper
-15mL (1 tablespoon) red chile paste
-avacado oil
-pinch ethevia
-2 liters chicken or veggie stock
-1 package soft tofu
-green onion and cilantro
+- 200g shitake mushrooms
+- 50g fresh wood ear mushrooms
+- 3cm piece of ginger
+- small can bamboo shoots (~142g)
+- 60mL (1/4 cup) soy sauce
+- 60mL (1/4 cup) rice vinegar
+- 5mL (1 teaspoon) salt
+- 5mL (1 teaspoon) white pepper
+- 15mL (1 tablespoon) red chile paste
+- avacado oil
+- pinch ethevia
+- 2 liters chicken or veggie stock
+- 1 package soft tofu
+- green onion and cilantro
 
 ## directions:
 
