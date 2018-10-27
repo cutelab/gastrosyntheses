@@ -1,6 +1,6 @@
 # Cabbage Borscht
 Adapted from 
-https://www.allrecipes.com/recipe/85517/russian-cabbage-borscht/
+https://www.allrecipes.com/recipe/85517/russian-cabbage-borscht/, 
 https://www.seriouseats.com/recipes/2009/02/dinner-tonight-vegetarian-borscht-recipe.html
 
 ## Ingredients
@@ -30,4 +30,4 @@ https://www.seriouseats.com/recipes/2009/02/dinner-tonight-vegetarian-borscht-re
 
 
 ## Notes
-- eat with [russian black rye bread][./russian_black_rye_bread.md]
+- eat with [russian black rye bread](./russian_black_rye_bread.md)
