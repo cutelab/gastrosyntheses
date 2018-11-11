@@ -10,4 +10,4 @@
 - salt + pepper
 
 ## Directions
-- put in a bowl!
+1. put in a bowl!
