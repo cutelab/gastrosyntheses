@@ -1,7 +1,7 @@
 # Summer salad
 
 ## Ingredients
-- [chimichurri sauce](./chimichurri_sauce.md)
+- [chimichurri sauce](./../sauce/chimichurri_sauce.md)
 - fresh corn (on the cob)
 - your favorite tomatoes
 - zucchini

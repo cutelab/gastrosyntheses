@@ -30,4 +30,4 @@ https://www.seriouseats.com/recipes/2009/02/dinner-tonight-vegetarian-borscht-re
 
 
 ## Notes
-- eat with [russian black rye bread](./russian_black_rye_bread.md)
+- eat with [russian black rye bread](./../brot/russian_black_rye_bread.md)
