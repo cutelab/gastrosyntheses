@@ -26,11 +26,11 @@ Based on https://www.thekitchn.com/how-to-make-sourdough-bread-224367, which is 
 - Lame, sharp knife, or serrated knife
  
 ## INSTRUCTIONS
-1. STARTER (1-3 days before baking): Make sure your sourdough culture is active. If your sourdough has been in the refrigerator, take it out 2 to 3 days before you plan to bake. Feed it daily to make sure it's strong and very active before you make the bread.
+1. STARTER (1-3 days before baking): Make sure your sourdough culture is active. If your sourdough has been in the refrigerator, take it out 2 to 3 days before you plan to bake. Feed it twice daily to make sure it's strong and very active before you make the bread.
 
-1. LEAVEN (~2hrs; float test every hour): Make the leaven and let it sit overnight. The night before you plan to make the dough, place all the leaven ingredients in a large bowl and mix thoroughly to form a thick batter. Cover and let stand at room temperature overnight, for about 12 hours.
+1. LEAVEN (2+hrs; float test every hour): The morning you plan to make the dough, place all the leaven ingredients in a large bowl and mix thoroughly to form a thick batter. Cover and let stand at room temperature. Float test every hour.
 
-1. FLOAT TEST FOR LEAVEN: Test that the leaven is ready. Generally, if the surface of the leaven is very bubbly, it's ready to be used. To double check, drop a small spoonful of the leaven in a cup of water; if the leaven floats, it's ready.
+1. FLOAT TEST FOR LEAVEN: Test that the leaven is ready. Generally, if the surface of the leaven is very bubbly, it's ready to be used. To double check, drop a small spoonful of the leaven (sacrificial) in a cup of water; if the leaven floats, it's ready.
 
 1. Dissolve the salt. Place 50 grams (about 1/4 cup) of the water and the salt for the dough in a small bowl. Set aside, stirring occasionally to make sure the salt dissolves.
 
@@ -66,13 +66,11 @@ Based on https://www.thekitchn.com/how-to-make-sourdough-bread-224367, which is 
 
 1. BAKING: Score the top of the loaf. Use a lame, sharp knife, or serrated knife to quickly score the surface of the loaves. Try to score at a slight angle, so you're cutting almost parallel to the surface of the loaf; this gives the loaves the distinctive "shelf" along the score line.
 
-1. BAKING (20 min): Bake the loaves for 20 minutes. Reduce the oven temperature to 450°F. Bake for 20 minutes.
+1. BAKING (20 min, covered): Reduce the oven temperature to 450°F. Cover the Dutch oven. Bake for 20 minutes.
 
-1. BAKING (20 min): Uncover the pots to release any remaining steam. At this point, the loaves should have "sprung" up, have a dry surface, and be just beginning to show golden color. Remove the lids and continue baking 15 to 25 minutes.
+1. BAKING (~20 min, uncovered): Uncover the pots to release any remaining steam. At this point, the loaves should have "sprung" up, have a dry surface, and be just beginning to show golden color. Remove the lids and continue baking until the crust is deeply browned, about 15-25 minutes; aim for just short of burnt. It might feel a bit unnatural to bake loaves this fully, but this is where a lot of the flavor and texture of the crust comes in. If the top needs more color but the bottom is close to burning, you can finish the bake with the loaf out of the pan and directly on the oven rack. The top color is also helped by having the oven rack closer to the top of the oven.
 
-1. BAKING (until just short of burning the bottom): Bake another 15 to 25 minutes. Continue baking uncovered until the crust is deeply browned; aim for just short of burnt. It might feel a bit unnatural to bake loaves this fully, but this is where a lot of the flavor and texture of the crust comes in. If the top needs more color but the bottom is close to burning, you can finish the bake with the loaf out of the pan and directly on the oven rack. The top color is also helped by having the oven rack closer to the top of the oven.
-
-1. COOLING: Cool the loaves completely. When done, lift the loaves out of the pots using a spatula. Transfer them to wire racks to cool completely. Wait until they have cooled to room temperature before slicing.
+1. COOLING: When done, lift the loaves out of the pots using a spatula. Transfer them to wire racks to cool completely, at least 10 minutes. Wait until they have cooled to room temperature before slicing.
 
 ## RECIPE NOTES
 - Whole-wheat sourdough: You can replace up to half of the all-purpose flour with whole-wheat or whole-grain flour.
