@@ -5,7 +5,7 @@ From https://www.theperfectloaf.com/my-top-3-leftover-sourdough-starter-recipes/
 ## Ingredients
 - 460g (2 cups) buttermilk
 - 110g (1/2 cup) water
-- 126g(1/2 cup or 1 stick) butter, melted and cooled
+- 63g( 1/4 cup or 1/2 stick) butter, melted and cooled
 - 100g (1/2 cup, stirred down) ripe sourdough starter
 - 250g (2 cups) all-purpose flour, einkorn flour, or a mix of all-purpose and whole wheat
 - 7g (1 1/2 teaspoon) raw sugar
