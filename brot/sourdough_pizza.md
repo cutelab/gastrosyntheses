@@ -29,6 +29,8 @@ Makes about five 12 inch pizzas.
 
 ## Topping suggestions
 - Cheese (mozz, parmesan/hard, goat/feta/soft), red onion, sauteed mushrooms, garlic, canned corn
+- if making a no-red-sauce pizza, serve with green sauce (papi chulo / chimichurri sauce)
+- https://www.bonappetit.com/recipe/perfect-pizza: imported mozzarella di bufala, fior di latte mozzarella, maitake mushrooms, calabrian chiles, pizza sauce, garlic clove, parmesan, basil, lemon
 
 ## Notes
 - more thinner crust = more better pizza

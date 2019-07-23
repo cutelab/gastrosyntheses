@@ -2,6 +2,14 @@
 
 # enchilada sauce
 TODO: clarify and document enchilada sauce recipe
+probably legit sauce recipe: https://www.daringgourmet.com/enchilada-sauce-mexican-red-chile-sauce/
+
+# enchilada filling ideas
+- black bean + green chili + pepper jack
+- butternut squash + black bean + tempeh
+- chicken + green chili + black bean + pepper jack
+- zucchini + black bean + tempeh + pepper jack
+
 
 # black bean green chili manchego enchiladas
 based on
