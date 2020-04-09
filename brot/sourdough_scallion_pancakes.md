@@ -1,7 +1,7 @@
 # sourdough scallion pancakes
 
 # ingredients
-- active sourdough starter (>=50% hydration)
+- active sourdough starter (>=80% hydration)
 - chopped scallions
 - sesame seeds
 - salt
@@ -24,3 +24,7 @@ into the pancake.
   perhaps?
 - still not sure what the best starter hydration is.
 
+# variations
+- plain: just salt
+- cheddar
+- kimchi + cheddar

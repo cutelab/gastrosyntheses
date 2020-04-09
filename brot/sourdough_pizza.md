@@ -1,4 +1,4 @@
-# Sourdough Pizza
+# Sourdough (Fridge) Pizza
 References: https://www.theperfectloaf.com/sourdough-pizza-dough-and-recipes/
 Based on Cheeseboard Collective's sourdough pizza dough recipe
 
@@ -8,7 +8,27 @@ Based on Cheeseboard Collective's sourdough pizza dough recipe
 - 1.5 tspns kosher salt
 - 0.5 cup (4 oz) sourdough starter
 
-Makes about five 12 inch pizzas.
+Makes about five almost-10-inch pizzas.
+
+
+## Ingredients in grams 
+
+- 250g-310g white flour (2-2.5 cups)
+- 125g whole wheat flour
+- 355g water
+- 17g salt
+- 114g sourdough starter
+
+
+## Ingredients in grams, scaled to 6 pizzas
+Assuming above amounts are for 4.3 pizzas, in order to make 6 (each 200g) pizzas:
+
+- 350g-410g white flour
+- 200g whole wheat flour
+- 525g water
+- 24g salt
+- 110g sourdough starter
+
 
 ## Dough Directions
 1. Put 3 cups of the flour in the bowl of a stand mixer or a large bowl.
