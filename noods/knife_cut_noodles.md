@@ -1,8 +1,11 @@
-# knife-cut noodes
+# knife-cut noodles
 
 # ingredients
-- 1 part water (e.g. 2/3 cup)
-- 3 part flour (e.g. 2 cups)
+- 1/2 tsp salt
+- 600g flour
+- 280ml water
+
+makes enough for ~4 servings
 
 # directions
 1. mix dough
